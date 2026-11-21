@@ -1,0 +1,1 @@
+import{F as e,ei as t}from"./ui-DCne89DH.js";var n=t();function r({titre:t,children:r}){return(0,n.jsxs)(`section`,{"aria-label":t,children:[(0,n.jsx)(e,{titre:t}),(0,n.jsx)(`div`,{className:`space-y-e-3 text-corps`,children:r})]})}export{r as t};

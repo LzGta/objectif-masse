@@ -1,0 +1,1 @@
+import{r as e}from"./index-B-gMS5Bk.js";import{ei as t}from"./ui-DCne89DH.js";var n=t();function r(){return(0,n.jsx)(e,{segment:`jours`})}export{r as default};

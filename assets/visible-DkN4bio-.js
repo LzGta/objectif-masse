@@ -1,0 +1,1 @@
+var e=`om-catalogue`;function t(){try{return localStorage.getItem(e)===`1`}catch{return!1}}function n(){try{localStorage.setItem(e,`1`)}catch{}}export{t as n,n as t};
